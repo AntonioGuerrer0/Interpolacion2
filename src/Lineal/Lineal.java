@@ -1,4 +1,6 @@
-public class Interpolacion_Lineal {
+package Lineal;
+
+public class Lineal {
 
     public static double interpolate(double[] x, double[] y, double xTarget) {
         int n = x.length;
@@ -27,10 +29,8 @@ public class Interpolacion_Lineal {
         return yTarget;
     }
 
-
     public static void main(String[] args) {
-        
-      double[] x = {1.0, 2.0, 3.0, 4.0, 5.0};
+        double[] x = {1.0, 2.0, 3.0, 4.0, 5.0};
 
         double[] y = {2.0, 4.0, 6.0, 8.0, 10.0};
 
