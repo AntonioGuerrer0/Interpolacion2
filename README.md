@@ -1,6 +1,6 @@
 # Metodos_Numericos
 Realizado por:
-  <li>Diego José Antonio Guerrero Lazcano</li>
+  <li> José Antonio Guerrero Lazcano</li>
  
 <h2 align = "center"> <font color = "darkorange" size = "+6"  font face = "bauhaus 93">  Indice </font> </h2>
 <header> <font color = "red" size="+1" font face = "aharoni">
