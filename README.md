@@ -8,8 +8,8 @@ Realizado por:
      <li> <a href="#Descripcion"> Descripción </a> <br> </li>
                             <ul class="subindice"> 
                                 <li> <a href="#Lineal"> Interpolación lineal (5 ejemplos). </a> </li>
-                                <li> <a href="#Cuadratica"> Interpolación cuadratica (1 ejemplo). </a> </li>
-                                <li> <a href="#Langrage"> Interpolación langrage (5 ejemplos). </a> </li> 
+                                <li> <a href="#cuadratica"> Interpolación cuadratica (1 ejemplo). </a> </li>
+                                <li> <a href="#langrage"> Interpolación langrage (5 ejemplos). </a> </li> 
                                 <li> <a href="#Newton"> Interpolación de newton (5 ejemplos). </a> </li> 
                             </ul>
                     </ul>
