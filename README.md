@@ -16,7 +16,7 @@ Realizado por:
                 </nav>
             </font> </header>
 
-<h2 align = "center"> <font font face = "forte">  <a name="Descricpcion"> Descripción </a></h2>
+<h2 align = "center"> <font font face = "forte">  <a name="Descripcion"> Descripción </a></h2>
 La interpolación en métodos numéricos es una técnica utilizada para estimar valores desconocidos de una función a partir de un conjunto de valores conocidos. Es una herramienta fundamental en el análisis numérico y se emplea en diversas áreas como la ingeniería, la física y la economía, donde es necesario trabajar con datos discretos o aproximar funciones.  
 
   Existen varios métodos de interpolación, cada uno con sus propias características y aplicaciones. Algunos de los más comunes son:
